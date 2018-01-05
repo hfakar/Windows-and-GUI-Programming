@@ -1,0 +1,5 @@
+﻿  maincpp.cpp
+c:\users\hfaka\source\repos\project1\project1\maincpp.cpp(49): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+c:\users\hfaka\source\repos\project1\project1\maincpp.cpp(54): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+  Project1.vcxproj -> C:\Users\hfaka\source\repos\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\hfaka\source\repos\Project1\Debug\Project1.pdb (Partial PDB)
